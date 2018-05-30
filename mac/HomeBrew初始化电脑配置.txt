@@ -1,1 +1,2 @@
 # 重装电脑后使用homebrew初始化开发环境
+1. 安装homebrew
